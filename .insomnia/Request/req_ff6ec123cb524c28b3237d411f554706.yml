@@ -1,7 +1,7 @@
 _id: req_ff6ec123cb524c28b3237d411f554706
 type: Request
 parentId: wrk_ba9ef2404d24407cb77f86c2f46ebe28
-modified: 1694778106147
+modified: 1694778298458
 created: 1694777443065
 url: "{{ _.baseurl }}/objects"
 name: New Request 1
@@ -23,8 +23,15 @@ parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_245ba9de9220413587d130314a5087f8
   - name: User-Agent
     value: insomnia/2023.5.8
+    id: pair_65b91df7207540e5b12f824fe6ebeef5
+    disabled: false
+  - id: pair_26852647f554485d881def7e0130238b
+    name: ""
+    value: ""
+    description: ""
 authentication: {}
 metaSortKey: -1694777443066
 isPrivate: false
