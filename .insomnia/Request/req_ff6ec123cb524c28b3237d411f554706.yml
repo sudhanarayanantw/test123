@@ -1,9 +1,9 @@
 _id: req_ff6ec123cb524c28b3237d411f554706
 type: Request
 parentId: wrk_ba9ef2404d24407cb77f86c2f46ebe28
-modified: 1694777479368
+modified: 1694778106147
 created: 1694777443065
-url: https://api.restful-api.dev/objects
+url: "{{ _.baseurl }}/objects"
 name: New Request 1
 description: ""
 method: POST
