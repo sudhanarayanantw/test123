@@ -1,0 +1,36 @@
+_id: req_6d4de74d9d3e440bb06c0ea3bdde1629
+type: Request
+parentId: wrk_ba9ef2404d24407cb77f86c2f46ebe28
+modified: 1694777495899
+created: 1694777489578
+url: https://api.restful-api.dev/objects
+name: New Request 2
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+       "name": "Apple MacBook Pro 17",
+       "data": {
+          "year": 2019,
+          "price": 1849.99,
+          "CPU model": "Intel Core i9",
+          "Hard disk size": "1 TB"
+       }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1694734681309
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
