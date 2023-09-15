@@ -1,7 +1,7 @@
 _id: req_6d4de74d9d3e440bb06c0ea3bdde1629
 type: Request
 parentId: wrk_ba9ef2404d24407cb77f86c2f46ebe28
-modified: 1694777495899
+modified: 1694777582365
 created: 1694777489578
 url: https://api.restful-api.dev/objects
 name: New Request 2
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-       "name": "Apple MacBook Pro 17",
+       "name": "Apple MacBook Pro 18",
        "data": {
           "year": 2019,
           "price": 1849.99,
